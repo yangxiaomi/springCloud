@@ -1,0 +1,17 @@
+D:\mywork\eclipse-workspace\microservicecloud2020\microservicecloud2020-provider-order-8082\src\main\java\com\wxxje\mq\Consumer.java
+D:\mywork\eclipse-workspace\microservicecloud2020\microservicecloud2020-provider-order-8082\src\main\java\com\wxxje\mq\routing\Consumer2.java
+D:\mywork\eclipse-workspace\microservicecloud2020\microservicecloud2020-provider-order-8082\src\main\java\com\wxxje\mq\config\RabbieMQConfig.java
+D:\mywork\eclipse-workspace\microservicecloud2020\microservicecloud2020-provider-order-8082\src\main\java\com\wxxje\controller\SendMsgController.java
+D:\mywork\eclipse-workspace\microservicecloud2020\microservicecloud2020-provider-order-8082\src\main\java\com\wxxje\mq\Producer.java
+D:\mywork\eclipse-workspace\microservicecloud2020\microservicecloud2020-provider-order-8082\src\main\java\com\wxxje\mq\work\Consumer.java
+D:\mywork\eclipse-workspace\microservicecloud2020\microservicecloud2020-provider-order-8082\src\main\java\com\wxxje\mq\work\Consumer2.java
+D:\mywork\eclipse-workspace\microservicecloud2020\microservicecloud2020-provider-order-8082\src\main\java\com\wxxje\ProviderOrder8082.java
+D:\mywork\eclipse-workspace\microservicecloud2020\microservicecloud2020-provider-order-8082\src\main\java\com\wxxje\mq\routing\Consumer.java
+D:\mywork\eclipse-workspace\microservicecloud2020\microservicecloud2020-provider-order-8082\src\main\java\com\wxxje\mq\ps\consumer.java
+D:\mywork\eclipse-workspace\microservicecloud2020\microservicecloud2020-provider-order-8082\src\main\java\com\wxxje\mq\ps\consumer2.java
+D:\mywork\eclipse-workspace\microservicecloud2020\microservicecloud2020-provider-order-8082\src\main\java\com\wxxje\controller\OrderController.java
+D:\mywork\eclipse-workspace\microservicecloud2020\microservicecloud2020-provider-order-8082\src\main\java\com\wxxje\mq\ConnectionUtil.java
+D:\mywork\eclipse-workspace\microservicecloud2020\microservicecloud2020-provider-order-8082\src\main\java\com\wxxje\mq\ps\Producer.java
+D:\mywork\eclipse-workspace\microservicecloud2020\microservicecloud2020-provider-order-8082\src\main\java\com\wxxje\mq\routing\Producer.java
+D:\mywork\eclipse-workspace\microservicecloud2020\microservicecloud2020-provider-order-8082\src\main\java\com\wxxje\controller\MyListner.java
+D:\mywork\eclipse-workspace\microservicecloud2020\microservicecloud2020-provider-order-8082\src\main\java\com\wxxje\mq\work\Producer.java

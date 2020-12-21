@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservicecloud2020-dao" />
+        <module name="microservicecloud2020Sidecar" />
+        <module name="microservicecloud-consumer-dept-80" />
+        <module name="microservicecloud-sso-provider" />
+        <module name="microservicecloud2020-zuul" />
+        <module name="microservicecloud2020-eureka-7001" />
+        <module name="microservicecloud2020-provider-dept-8081" />
+        <module name="microservicecloud2020-boke" />
+        <module name="microservicecloud-api2020" />
+        <module name="microservicecloud2020-provider-order-8082" />
+        <module name="microservicecloud2020-consumer-order8012" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="microservicecloud-api2020" target="1.8" />
+      <module name="microservicecloud-consumer-dept-80" target="1.8" />
+      <module name="microservicecloud-sso-provider" target="1.8" />
+      <module name="microservicecloud2020" target="1.8" />
+      <module name="microservicecloud2020-boke" target="1.8" />
+      <module name="microservicecloud2020-consumer-order8012" target="1.8" />
+      <module name="microservicecloud2020-dao" target="1.8" />
+      <module name="microservicecloud2020-eureka-7001" target="1.8" />
+      <module name="microservicecloud2020-provider-dept-8081" target="1.8" />
+      <module name="microservicecloud2020-provider-order-8082" target="1.8" />
+      <module name="microservicecloud2020-zuul" target="1.8" />
+      <module name="microservicecloud2020Sidecar" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

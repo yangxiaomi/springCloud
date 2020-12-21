@@ -1,0 +1,17 @@
+server:
+    port: 8012
+
+spring:
+  application:
+    name: consumer-client-order
+
+      
+eureka:
+  client:
+    service-url:
+      #defaultZone: http://admin:admin@localhost:7001/eureka,http://admin:admin@localhost:7011/eureka
+#部署时localhost改为注册中心部署服务器IP
+      defaultZone: http://admin:admin@localhost:7001/eureka
+      
+
+

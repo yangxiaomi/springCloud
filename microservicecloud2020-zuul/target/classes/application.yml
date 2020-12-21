@@ -1,0 +1,25 @@
+server:
+    port: 8050
+
+spring:
+  application:
+    name: comsumer-zuul
+
+      
+eureka:
+  client:
+    service-url:
+      #defaultZone: http://admin:admin@localhost:7001/eureka,http://admin:admin@localhost:7011/eureka
+#部署时localhost改为注册中心部署服务器IP
+      defaultZone: http://admin:admin@localhost:7001/eureka
+      
+zuul:
+  ignored-services: '*'
+  routes:
+    app-a:
+      path: /user/**
+      service-id: consumer-client-order
+    app-sidecar: 
+      path: /sidecar/**
+      service-id: microservicecloud2020-sidecar
+  

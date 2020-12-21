@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/microservicecloud-api2020/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-consumer-dept-80/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-consumer-dept-80/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-sso-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud2020-boke/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud2020-boke/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud2020-consumer-order8012/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud2020-consumer-order8012/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud2020-dao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud2020-dao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud2020-eureka-7001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud2020-eureka-7001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud2020-provider-dept-8081/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud2020-provider-dept-8081/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud2020-provider-order-8082/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud2020-provider-order-8082/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud2020-zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud2020-zuul/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud2020Sidecar/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud2020Sidecar/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
